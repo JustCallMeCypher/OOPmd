@@ -25,3 +25,21 @@ this little box can be done with either
 ``` on top and on bottom
 
 ```
+
+
+
+## Formatting
+this is **bold** <br>
+This is __bold__ <br>
+this is *italics* <br>
+This is _italics_ <br>
+this is ***bold and italics*** <br>
+this is ~~strikeout~~ <br>
+this is <u>underlined</u> <br>
+
+## List
+<ol>
+	<li>First item</li>
+	<li>Second item</li>
+	<li>third Item</li>
+</ol>
