@@ -14,6 +14,8 @@ heading above and heading below
 	
 	the paragraph finishes when there is a line inbetween the next written line
 	
+	# Mogus
+
 	![Mogus](./Images/mogus.gif)
 	
 > mogus
@@ -43,3 +45,7 @@ this is <u>underlined</u> <br>
 	<li>Second item</li>
 	<li>third Item</li>
 </ol>
+
+[Top of the page](#OOPmd) <br>
+[Mogus](#Mogus) <br>
+[Github Page](https://github.com/JustCallMeCypher/OOPmd)
